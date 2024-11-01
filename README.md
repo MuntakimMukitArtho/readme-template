@@ -13,7 +13,7 @@ This is the second line
 ###### Artho
 
 ### Paragraph
-<p>This is Muntakim MUkit Artho. I am 22 years old. I am from Bangladesh.</p>
+<p>This is Muntakim Mukit Artho. I am 22 years old. I am from Bangladesh.</p>
  
  ### Italic text
  _this is an italic text_  
